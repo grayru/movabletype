@@ -1518,6 +1518,14 @@ sub mark_odd_rows {
         [qw( AM PM )],
     ],
 
+    'ru' => [
+        [qw( Воскресенье Понедельник Вторник Среда Четверг Пятница Суббота )],
+        [   qw( Январь Февраль Март Апрель Май Июнь
+                Июль Август Сентябрь Октябрь Ноябрь Декабрь )
+        ],
+        [qw( AM PM )],
+    ],
+
     'fr' => [
         [qw( dimanche lundi mardi mercredi jeudi vendredi samedi )],
         [   (   'janvier',   "f&#xe9;vrier", 'mars',     'avril',
